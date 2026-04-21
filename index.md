@@ -2,6 +2,10 @@
 title: Privacy Policy
 ---
 
+<p align="center">
+  <img src="logo.png" alt="Your Org Name" width="150">
+</p>
+
 # Privacy Policy
 
 **Gaggiuino Companion**  
@@ -51,4 +55,5 @@ If this policy changes, the updated version will be posted here with a new "Last
 
 ## Contact
 
-If you have questions about this privacy policy, please open an issue on the project's GitHub repository.
+If you have questions about this privacy policy, please open an issue on the project's GitHub repository: 
+[Open an issue](https://github.com/brew-byte/gaggiuino-companion-privacy/issues)
