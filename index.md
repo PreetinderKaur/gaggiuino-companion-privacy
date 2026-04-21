@@ -2,10 +2,6 @@
 title: Privacy Policy
 ---
 
-<p align="center">
-  <img src="logo.png" alt="Your Org Name" width="150">
-</p>
-
 # Privacy Policy
 
 **Gaggiuino Companion**  
