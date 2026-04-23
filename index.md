@@ -6,7 +6,7 @@ title: Privacy Policy
 
 **Brewino: Gaggiuino Companion**  
 Published by BrewByte  
-Last updated: April 22, 2026
+Last updated: April 23, 2026
 
 ## Overview
 
@@ -66,10 +66,3 @@ If this policy changes, the updated version will be posted here with a new "Last
 If you have questions about this privacy policy, please open an issue on our GitHub repository:
 
 [Open an issue](https://github.com/brew-byte/brewino-privacy/issues)
-
-Or email: privacy@brewbyte.[your-tld]
-## Contact
-
-If you have questions about this privacy policy, please open an issue on our GitHub repository:
-
-[Open an issue](https://github.com/brew-byte/gaggiuino-companion-privacy/issues)
